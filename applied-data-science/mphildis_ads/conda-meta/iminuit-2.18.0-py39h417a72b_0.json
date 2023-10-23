@@ -1,0 +1,319 @@
+{
+  "build": "py39h417a72b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "libstdcxx-ng >=11.2.0",
+    "numpy >=1.16.6,<2.0a0",
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/home/jhughes2712/miniconda3/pkgs/iminuit-2.18.0-py39h417a72b_0",
+  "files": [
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/LICENSE",
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/iminuit/__init__.py",
+    "lib/python3.9/site-packages/iminuit/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/_deprecated.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/_repr_html.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/_repr_text.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/cost.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/experimental.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/minimize.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/minuit.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/pdg_format.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/testing.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/typing.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/util.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/__pycache__/version.cpython-39.pyc",
+    "lib/python3.9/site-packages/iminuit/_core.cpython-39-x86_64-linux-gnu.so",
+    "lib/python3.9/site-packages/iminuit/_deprecated.py",
+    "lib/python3.9/site-packages/iminuit/_repr_html.py",
+    "lib/python3.9/site-packages/iminuit/_repr_text.py",
+    "lib/python3.9/site-packages/iminuit/cost.py",
+    "lib/python3.9/site-packages/iminuit/experimental.py",
+    "lib/python3.9/site-packages/iminuit/minimize.py",
+    "lib/python3.9/site-packages/iminuit/minuit.py",
+    "lib/python3.9/site-packages/iminuit/pdg_format.py",
+    "lib/python3.9/site-packages/iminuit/testing.py",
+    "lib/python3.9/site-packages/iminuit/typing.py",
+    "lib/python3.9/site-packages/iminuit/util.py",
+    "lib/python3.9/site-packages/iminuit/version.py"
+  ],
+  "fn": "iminuit-2.18.0-py39h417a72b_0.conda",
+  "legacy_bz2_md5": "1625ced7e709a2070344d0878463927b",
+  "legacy_bz2_size": 419054,
+  "license": "LGPL-2.1-or-later AND MIT",
+  "license_family": "LGPL",
+  "link": {
+    "source": "/home/jhughes2712/miniconda3/pkgs/iminuit-2.18.0-py39h417a72b_0",
+    "type": 1
+  },
+  "md5": "0514257eb895eb9e308337657ceb66c6",
+  "name": "iminuit",
+  "package_tarball_full_path": "/home/jhughes2712/miniconda3/pkgs/iminuit-2.18.0-py39h417a72b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "66e01532af633eab5094f377de91a8b3eed65cca5448b07930d32d94f50fe948",
+        "sha256_in_prefix": "66e01532af633eab5094f377de91a8b3eed65cca5448b07930d32d94f50fe948",
+        "size_in_bytes": 1533
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1d5c1460b92e415027957b7b2fa2aac9d2b51ed1daf3e44ecc92cb1660791e09",
+        "sha256_in_prefix": "1d5c1460b92e415027957b7b2fa2aac9d2b51ed1daf3e44ecc92cb1660791e09",
+        "size_in_bytes": 7132
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "81e609c5a837f297328b04075ac111eb509c36ec3bf626241cd77192099ab649",
+        "sha256_in_prefix": "81e609c5a837f297328b04075ac111eb509c36ec3bf626241cd77192099ab649",
+        "size_in_bytes": 2384
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "fd3cea8db975b7fda98fd81f64fbc6d69a72bda3b2a3151ad39de77e1e34ac4f",
+        "sha256_in_prefix": "fd3cea8db975b7fda98fd81f64fbc6d69a72bda3b2a3151ad39de77e1e34ac4f",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "00b7e3ddfb89289f0f920e71420c1fedd24e7072072460b13827a8848406acd5",
+        "sha256_in_prefix": "00b7e3ddfb89289f0f920e71420c1fedd24e7072072460b13827a8848406acd5",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit-2.18.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "325706536202b95a77d9f7f35739f4524506dd0f2908ba4c9974ac5ac5d13e4d",
+        "sha256_in_prefix": "325706536202b95a77d9f7f35739f4524506dd0f2908ba4c9974ac5ac5d13e4d",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ae9e0b833f9e401d7f0a7f58f512a273cfa329db45f36ded5115ffa2c410ebad",
+        "sha256_in_prefix": "ae9e0b833f9e401d7f0a7f58f512a273cfa329db45f36ded5115ffa2c410ebad",
+        "size_in_bytes": 829
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ba37d9942c880577b9a1798607ae679bbb30fca68951067d243fe4676dc6330d",
+        "sha256_in_prefix": "ba37d9942c880577b9a1798607ae679bbb30fca68951067d243fe4676dc6330d",
+        "size_in_bytes": 858
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/_deprecated.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a215407001d8baaf35d0e4bfd300e4b6c79f3a0aeb896fefbc117c91d2f6fd4e",
+        "sha256_in_prefix": "a215407001d8baaf35d0e4bfd300e4b6c79f3a0aeb896fefbc117c91d2f6fd4e",
+        "size_in_bytes": 987
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/_repr_html.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0d4e6116f424ebd8ea78eb6046ed5622c4ed9dd1a2419571e74091034575a7cb",
+        "sha256_in_prefix": "0d4e6116f424ebd8ea78eb6046ed5622c4ed9dd1a2419571e74091034575a7cb",
+        "size_in_bytes": 7719
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/_repr_text.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e5ebc9e4d28e728e3e92e6af7973d48581c610a276de54559cff522987fd0a8",
+        "sha256_in_prefix": "7e5ebc9e4d28e728e3e92e6af7973d48581c610a276de54559cff522987fd0a8",
+        "size_in_bytes": 7227
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/cost.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a99079f26970a3467706a44453f28ff4402bf94a3d5bf2609e368e6ddec6862",
+        "sha256_in_prefix": "9a99079f26970a3467706a44453f28ff4402bf94a3d5bf2609e368e6ddec6862",
+        "size_in_bytes": 59917
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/experimental.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b0a192bf1802f93d1c1ae247a897ac1ebf79ebe921ac50d6132101cd29f20ba2",
+        "sha256_in_prefix": "b0a192bf1802f93d1c1ae247a897ac1ebf79ebe921ac50d6132101cd29f20ba2",
+        "size_in_bytes": 1691
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/minimize.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "3d5cd71f8d6a2084dc6f402e35c327a176ed4e1fba7c75ef6bc91500534eee00",
+        "sha256_in_prefix": "3d5cd71f8d6a2084dc6f402e35c327a176ed4e1fba7c75ef6bc91500534eee00",
+        "size_in_bytes": 4873
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/minuit.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f16350a6370edefbb6b576dc59232b384dbd9d2ea3e10a2963e1d9fccc8480e1",
+        "sha256_in_prefix": "f16350a6370edefbb6b576dc59232b384dbd9d2ea3e10a2963e1d9fccc8480e1",
+        "size_in_bytes": 76886
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/pdg_format.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f2ca150edff88f433c5d2e945f3e52bdaf27a43f633861a1c05356653ca2a50",
+        "sha256_in_prefix": "6f2ca150edff88f433c5d2e945f3e52bdaf27a43f633861a1c05356653ca2a50",
+        "size_in_bytes": 8176
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/testing.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "282ff46f26801b36bacc3f94f996b6aa46617c227aabfdbb36b63ce6aa5070df",
+        "sha256_in_prefix": "282ff46f26801b36bacc3f94f996b6aa46617c227aabfdbb36b63ce6aa5070df",
+        "size_in_bytes": 2127
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/typing.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "9611c4d00b4a4b5f8ac2d6899be7b69cb4e92d708473dedafc3646f17fe569c0",
+        "sha256_in_prefix": "9611c4d00b4a4b5f8ac2d6899be7b69cb4e92d708473dedafc3646f17fe569c0",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/util.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2af6992dfc3cf1cb2c9d971e0bc4b88a640e0d6be2b61e403b99a42e372bbf26",
+        "sha256_in_prefix": "2af6992dfc3cf1cb2c9d971e0bc4b88a640e0d6be2b61e403b99a42e372bbf26",
+        "size_in_bytes": 47693
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/__pycache__/version.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1196c7a7fb03133da465fb90ed83b5fdf170f89334eecb4baa5c2192d9c266e2",
+        "sha256_in_prefix": "1196c7a7fb03133da465fb90ed83b5fdf170f89334eecb4baa5c2192d9c266e2",
+        "size_in_bytes": 235
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/_core.cpython-39-x86_64-linux-gnu.so",
+        "path_type": "hardlink",
+        "sha256": "f071fcc330c9cc7b0167fdcb0e1b401c2acf4f7ad7e90a9a83dfaea212d6b4c5",
+        "sha256_in_prefix": "f071fcc330c9cc7b0167fdcb0e1b401c2acf4f7ad7e90a9a83dfaea212d6b4c5",
+        "size_in_bytes": 628952
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/_deprecated.py",
+        "path_type": "hardlink",
+        "sha256": "47bb49ad9a9807f43454d4f863de578a0a5aba377ad081e549a5c2db57aef365",
+        "sha256_in_prefix": "47bb49ad9a9807f43454d4f863de578a0a5aba377ad081e549a5c2db57aef365",
+        "size_in_bytes": 590
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/_repr_html.py",
+        "path_type": "hardlink",
+        "sha256": "f6fa84e7d1f0bf2748916638f84040b8f4b6340eef306b8763a4c9c2f24cb306",
+        "sha256_in_prefix": "f6fa84e7d1f0bf2748916638f84040b8f4b6340eef306b8763a4c9c2f24cb306",
+        "size_in_bytes": 9149
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/_repr_text.py",
+        "path_type": "hardlink",
+        "sha256": "be25dbfbf3d6cc10a945e30e3633326194d6de46ffa1f9b2e5a5a0225f661149",
+        "sha256_in_prefix": "be25dbfbf3d6cc10a945e30e3633326194d6de46ffa1f9b2e5a5a0225f661149",
+        "size_in_bytes": 6434
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/cost.py",
+        "path_type": "hardlink",
+        "sha256": "74d12ba75121bb1703495e76354c051495fb0fb2379cb6645f4b89058536cc7f",
+        "sha256_in_prefix": "74d12ba75121bb1703495e76354c051495fb0fb2379cb6645f4b89058536cc7f",
+        "size_in_bytes": 57593
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/experimental.py",
+        "path_type": "hardlink",
+        "sha256": "bf213308aaf6d70139aa04b94ce383706501d06faf1a155dc5b73701394ffa75",
+        "sha256_in_prefix": "bf213308aaf6d70139aa04b94ce383706501d06faf1a155dc5b73701394ffa75",
+        "size_in_bytes": 1106
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/minimize.py",
+        "path_type": "hardlink",
+        "sha256": "9edd3362ca9e575932de31ea417b94f37870be273591f16b4bf9ec4a89436421",
+        "sha256_in_prefix": "9edd3362ca9e575932de31ea417b94f37870be273591f16b4bf9ec4a89436421",
+        "size_in_bytes": 5013
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/minuit.py",
+        "path_type": "hardlink",
+        "sha256": "c3fb34326ef2e3d48e6f5c34b6e29929af074626abead508426d23d0ae09de6c",
+        "sha256_in_prefix": "c3fb34326ef2e3d48e6f5c34b6e29929af074626abead508426d23d0ae09de6c",
+        "size_in_bytes": 90717
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/pdg_format.py",
+        "path_type": "hardlink",
+        "sha256": "523da3b8618397c746e3beac02611eab8ca800b241a9a9a3a148d832c45b4891",
+        "sha256_in_prefix": "523da3b8618397c746e3beac02611eab8ca800b241a9a9a3a148d832c45b4891",
+        "size_in_bytes": 10249
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/testing.py",
+        "path_type": "hardlink",
+        "sha256": "66a53fe4a7a01031f3456a0887a3e22d96fe3330b022f12e6be406a1bc928b2f",
+        "sha256_in_prefix": "66a53fe4a7a01031f3456a0887a3e22d96fe3330b022f12e6be406a1bc928b2f",
+        "size_in_bytes": 1499
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/typing.py",
+        "path_type": "hardlink",
+        "sha256": "7840311aa4990605b1c83345c0ad18bd9dad1cfdc1f8200bfc12f9704164af4e",
+        "sha256_in_prefix": "7840311aa4990605b1c83345c0ad18bd9dad1cfdc1f8200bfc12f9704164af4e",
+        "size_in_bytes": 257
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/util.py",
+        "path_type": "hardlink",
+        "sha256": "cbc44ba88834e0340ffda7b086cd06af793c491aa5d06f9178f5e67b10ac56aa",
+        "sha256_in_prefix": "cbc44ba88834e0340ffda7b086cd06af793c491aa5d06f9178f5e67b10ac56aa",
+        "size_in_bytes": 45112
+      },
+      {
+        "_path": "lib/python3.9/site-packages/iminuit/version.py",
+        "path_type": "hardlink",
+        "sha256": "788800a5c07a8cebeb817f8102ae0b2d2f3be659ef6c45b89671365c74a69a12",
+        "sha256_in_prefix": "788800a5c07a8cebeb817f8102ae0b2d2f3be659ef6c45b89671365c74a69a12",
+        "size_in_bytes": 641
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "iminuit",
+  "sha256": "120c87538024738abdb0a8cf9a67b8d9179b4dbbb646260e095993485ec42a9f",
+  "size": 420319,
+  "subdir": "linux-64",
+  "timestamp": 1674746860422,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/iminuit-2.18.0-py39h417a72b_0.conda",
+  "version": "2.18.0"
+}

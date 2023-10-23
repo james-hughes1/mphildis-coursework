@@ -1,0 +1,180 @@
+{
+  "build": "pyhd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "numpy >=1.21",
+    "python >=3.8",
+    "scipy >=1.10"
+  ],
+  "extracted_package_dir": "/home/jhughes2712/miniconda3/pkgs/resample-1.6.0-pyhd8ed1ab_2",
+  "files": [
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/LICENSE",
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/resample-1.6.0.dist-info/top_level.txt",
+    "lib/python3.9/site-packages/resample/__init__.py",
+    "lib/python3.9/site-packages/resample/_util.py",
+    "lib/python3.9/site-packages/resample/bootstrap.py",
+    "lib/python3.9/site-packages/resample/empirical.py",
+    "lib/python3.9/site-packages/resample/jackknife.py",
+    "lib/python3.9/site-packages/resample/permutation.py",
+    "lib/python3.9/site-packages/resample/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/resample/__pycache__/_util.cpython-39.pyc",
+    "lib/python3.9/site-packages/resample/__pycache__/bootstrap.cpython-39.pyc",
+    "lib/python3.9/site-packages/resample/__pycache__/empirical.cpython-39.pyc",
+    "lib/python3.9/site-packages/resample/__pycache__/jackknife.cpython-39.pyc",
+    "lib/python3.9/site-packages/resample/__pycache__/permutation.cpython-39.pyc"
+  ],
+  "fn": "resample-1.6.0-pyhd8ed1ab_2.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/jhughes2712/miniconda3/pkgs/resample-1.6.0-pyhd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "7d223e8d9c395d3903ba487f1ee205cc",
+  "name": "resample",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/jhughes2712/miniconda3/pkgs/resample-1.6.0-pyhd8ed1ab_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "49f29bfe104d991bd8b17f85fdc9cac8d7539945f0268ee0db95e56abde31c51",
+        "sha256_in_prefix": "49f29bfe104d991bd8b17f85fdc9cac8d7539945f0268ee0db95e56abde31c51",
+        "size_in_bytes": 1517
+      },
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a26819011d11680bdf6ea2d6ad4c63ae9c7c5ddb10af9641e9fc53964dcb8dbb",
+        "sha256_in_prefix": "a26819011d11680bdf6ea2d6ad4c63ae9c7c5ddb10af9641e9fc53964dcb8dbb",
+        "size_in_bytes": 4025
+      },
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1dbfc5b41d56581f537594f6518f5dbcccbe2cbfe479beedf6a50e2419efc601",
+        "sha256_in_prefix": "1dbfc5b41d56581f537594f6518f5dbcccbe2cbfe479beedf6a50e2419efc601",
+        "size_in_bytes": 1438
+      },
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a6472d658cd44b8018567e9d27eef7ebb389662bc5d9ef1103d6ff6418e27f5f",
+        "sha256_in_prefix": "a6472d658cd44b8018567e9d27eef7ebb389662bc5d9ef1103d6ff6418e27f5f",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5fd4607277c775cd1bc907c7d245575c114b923c57a73826d82fc471a8d33caa",
+        "sha256_in_prefix": "5fd4607277c775cd1bc907c7d245575c114b923c57a73826d82fc471a8d33caa",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/resample-1.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "9f5f956773f778ace779c5e18177907d05576f9628e3e987731f4a1c65a04c88",
+        "sha256_in_prefix": "9f5f956773f778ace779c5e18177907d05576f9628e3e987731f4a1c65a04c88",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/resample/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "69ac6d57d4ce4226a172230ca49e5d2dbbddaec8a74eaad066af7e3c999ed470",
+        "sha256_in_prefix": "69ac6d57d4ce4226a172230ca49e5d2dbbddaec8a74eaad066af7e3c999ed470",
+        "size_in_bytes": 888
+      },
+      {
+        "_path": "site-packages/resample/_util.py",
+        "path_type": "hardlink",
+        "sha256": "0ba78b9664b0e3dd218764cbf062f58f4a3eecdecedc4b081fb581f72be20dd8",
+        "sha256_in_prefix": "0ba78b9664b0e3dd218764cbf062f58f4a3eecdecedc4b081fb581f72be20dd8",
+        "size_in_bytes": 867
+      },
+      {
+        "_path": "site-packages/resample/bootstrap.py",
+        "path_type": "hardlink",
+        "sha256": "b956db30f393ccaad861b639dbe08027218cd242753afff2f0080571fb661c01",
+        "sha256_in_prefix": "b956db30f393ccaad861b639dbe08027218cd242753afff2f0080571fb661c01",
+        "size_in_bytes": 22029
+      },
+      {
+        "_path": "site-packages/resample/empirical.py",
+        "path_type": "hardlink",
+        "sha256": "46d3cb2b65c85bc188342f6274406f8010955c4b07c631364a48f2173473d451",
+        "sha256_in_prefix": "46d3cb2b65c85bc188342f6274406f8010955c4b07c631364a48f2173473d451",
+        "size_in_bytes": 2488
+      },
+      {
+        "_path": "site-packages/resample/jackknife.py",
+        "path_type": "hardlink",
+        "sha256": "6d10410bccc46c902e77ac3a4c667ebdce6daaf42f10cf457995c700cac32a22",
+        "sha256_in_prefix": "6d10410bccc46c902e77ac3a4c667ebdce6daaf42f10cf457995c700cac32a22",
+        "size_in_bytes": 9982
+      },
+      {
+        "_path": "site-packages/resample/permutation.py",
+        "path_type": "hardlink",
+        "sha256": "36c8be0b88287ab51eff4e4ab7c28bd593c16ed0c4050b7e7ac199dec472623c",
+        "sha256_in_prefix": "36c8be0b88287ab51eff4e4ab7c28bd593c16ed0c4050b7e7ac199dec472623c",
+        "size_in_bytes": 15899
+      },
+      {
+        "_path": "lib/python3.9/site-packages/resample/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/resample/__pycache__/_util.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/resample/__pycache__/bootstrap.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/resample/__pycache__/empirical.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/resample/__pycache__/jackknife.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/resample/__pycache__/permutation.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "resample",
+  "sha256": "1eee17d7131b9963d8b1b97450d1aba9330402ef2e0a137aa5c194f324d21971",
+  "size": 28894,
+  "subdir": "noarch",
+  "timestamp": 1688996202676,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/resample-1.6.0-pyhd8ed1ab_2.conda",
+  "version": "1.6.0"
+}

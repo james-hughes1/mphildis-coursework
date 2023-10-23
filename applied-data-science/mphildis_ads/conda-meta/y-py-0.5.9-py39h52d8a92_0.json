@@ -1,0 +1,133 @@
+{
+  "build": "py39h52d8a92_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/home/jhughes2712/miniconda3/pkgs/y-py-0.5.9-py39h52d8a92_0",
+  "files": [
+    "lib/python3.9/site-packages/y_py-0.5.9.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/y_py-0.5.9.dist-info/METADATA",
+    "lib/python3.9/site-packages/y_py-0.5.9.dist-info/RECORD",
+    "lib/python3.9/site-packages/y_py-0.5.9.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/y_py-0.5.9.dist-info/WHEEL",
+    "lib/python3.9/site-packages/y_py-0.5.9.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/y_py-0.5.9.dist-info/license_files/LICENSE",
+    "lib/python3.9/site-packages/y_py/__init__.py",
+    "lib/python3.9/site-packages/y_py/__init__.pyi",
+    "lib/python3.9/site-packages/y_py/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/y_py/py.typed",
+    "lib/python3.9/site-packages/y_py/y_py.cpython-39-x86_64-linux-gnu.so"
+  ],
+  "fn": "y-py-0.5.9-py39h52d8a92_0.conda",
+  "legacy_bz2_md5": "788b6584637c435a6864408b72d58b82",
+  "legacy_bz2_size": 1435195,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/jhughes2712/miniconda3/pkgs/y-py-0.5.9-py39h52d8a92_0",
+    "type": 1
+  },
+  "md5": "51ec5283c0e8f36083a4bedba0a3cd2b",
+  "name": "y-py",
+  "package_tarball_full_path": "/home/jhughes2712/miniconda3/pkgs/y-py-0.5.9-py39h52d8a92_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/y_py-0.5.9.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py-0.5.9.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9e17a22035ce11407d88a5904ba1f9707e595ca71246416b4dd38b620e08aa4c",
+        "sha256_in_prefix": "9e17a22035ce11407d88a5904ba1f9707e595ca71246416b4dd38b620e08aa4c",
+        "size_in_bytes": 5533
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py-0.5.9.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9f6ea4ef5717687d31b2337245150bf1ef9ca8e831e79047341109eea89c5a06",
+        "sha256_in_prefix": "9f6ea4ef5717687d31b2337245150bf1ef9ca8e831e79047341109eea89c5a06",
+        "size_in_bytes": 923
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py-0.5.9.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py-0.5.9.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f61681be1ee60fb2e6e5c1519b70f40bd0ecaac8c4986439e9c5787edf9d160d",
+        "sha256_in_prefix": "f61681be1ee60fb2e6e5c1519b70f40bd0ecaac8c4986439e9c5787edf9d160d",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py-0.5.9.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d27be484fa8b99591cb555d543e7edd9d158faf21efeb0a1daaf987613fd3be4",
+        "sha256_in_prefix": "d27be484fa8b99591cb555d543e7edd9d158faf21efeb0a1daaf987613fd3be4",
+        "size_in_bytes": 64
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py-0.5.9.dist-info/license_files/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b6d81564e9c46473907bd3c09d4d5ab0f21cfbe6ac35d46daf1bdb0423182a5b",
+        "sha256_in_prefix": "b6d81564e9c46473907bd3c09d4d5ab0f21cfbe6ac35d46daf1bdb0423182a5b",
+        "size_in_bytes": 1153
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "871927e8c619f2a9eba5b011a10c4e57c885f873eac9024578cafd9f0f57e71c",
+        "sha256_in_prefix": "871927e8c619f2a9eba5b011a10c4e57c885f873eac9024578cafd9f0f57e71c",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "19d957fcbd5f00b99df9acebaf11526f44a73947880d0b6ae7bf6a1a921b8679",
+        "sha256_in_prefix": "19d957fcbd5f00b99df9acebaf11526f44a73947880d0b6ae7bf6a1a921b8679",
+        "size_in_bytes": 41726
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "fb8af39fed8ea7def9dab7765ccfcee6a6feee677f7fc9c939c58ac7ec90e8b9",
+        "sha256_in_prefix": "fb8af39fed8ea7def9dab7765ccfcee6a6feee677f7fc9c939c58ac7ec90e8b9",
+        "size_in_bytes": 216
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/y_py/y_py.cpython-39-x86_64-linux-gnu.so",
+        "path_type": "hardlink",
+        "sha256": "8714fd1a6c714495c0421758aaefa334341023d5fd01664d0818523d5bc90de2",
+        "sha256_in_prefix": "8714fd1a6c714495c0421758aaefa334341023d5fd01664d0818523d5bc90de2",
+        "size_in_bytes": 5698160
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6a4cd83be5efc22d6efbb1272878f23f4bd7ac762a41403f628e96508c908a19",
+  "size": 1357579,
+  "subdir": "linux-64",
+  "timestamp": 1683555557289,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/y-py-0.5.9-py39h52d8a92_0.conda",
+  "version": "0.5.9"
+}

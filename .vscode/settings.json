@@ -64,6 +64,8 @@
         "set": "cpp",
         "unordered_set": "cpp",
         "fstream": "cpp",
-        "shared_mutex": "cpp"
+        "shared_mutex": "cpp",
+        "overloading.C": "cpp",
+        "overload.C": "cpp"
     }
 }

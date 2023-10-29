@@ -66,6 +66,8 @@
         "fstream": "cpp",
         "shared_mutex": "cpp",
         "overloading.C": "cpp",
-        "overload.C": "cpp"
+        "overload.C": "cpp",
+        "STL.C": "cpp",
+        "odeSolver.C": "cpp"
     }
 }

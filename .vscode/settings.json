@@ -68,6 +68,7 @@
         "overloading.C": "cpp",
         "overload.C": "cpp",
         "STL.C": "cpp",
-        "odeSolver.C": "cpp"
+        "odeSolver.C": "cpp",
+        "PMs.C": "cpp"
     }
 }

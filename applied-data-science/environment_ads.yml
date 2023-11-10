@@ -1,4 +1,4 @@
-name: mphil
+name: mphildis_ads
 channels:
   - defaults
   - conda-forge
@@ -19,4 +19,4 @@ dependencies:
   - tqdm
   - uncertainties
   - statsmodels
-  - pycaret
+  - flake8

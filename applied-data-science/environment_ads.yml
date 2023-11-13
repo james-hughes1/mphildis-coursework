@@ -20,3 +20,4 @@ dependencies:
   - uncertainties
   - statsmodels
   - flake8
+  - jacobi
